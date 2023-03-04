@@ -1,0 +1,5 @@
+
+
+class it tu shevqmnit canisters da gvaqvs argumentebi ise evr gavushvebt deloyze tu argumentebi ar gadavawodet
+
+dfx identity get-principal  -- your principal

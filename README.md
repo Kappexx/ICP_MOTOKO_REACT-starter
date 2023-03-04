@@ -26,3 +26,5 @@ change index.html file
 
 
 if you wanna to add canisters you should adit dfx.json file (in my example i add nft canister)
+
+Dive deep //  https://internetcomputer.org/docs/current/developer-docs/frontend/custom-frontend
